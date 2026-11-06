@@ -1,0 +1,23 @@
+
+# Python environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+
+# Original large similarity matrix
+similarity.pkl
+
+# Temporary files
+*.log
+.DS_Store
